@@ -2,3 +2,4 @@
 39331929    Spring catch all route for index.html
 27005861    How to calculate the number of days in a period?
 37671125    How to configure Spring Security to allow Swagger URL to be accessed without authentication
+50946420    Could not transfer artifact (https://repo.maven.apache.org/maven2): Received fatal alert: protocol_version -> [Help 1]
