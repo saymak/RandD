@@ -9,3 +9,4 @@
 14290857    SQL SELECT WHERE field contains words
 3435581     How to count lines of Java code using IntelliJ IDEA?
 4419000     Regex match everything after question mark?
+15915202    IntelliJ not recognizing a particular file correctly, instead its stuck as a text file
