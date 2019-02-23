@@ -11,3 +11,5 @@
 4419000     Regex match everything after question mark?
 15915202    IntelliJ not recognizing a particular file correctly, instead its stuck as a text file
 15825081    Error: Default Activity Not Found
+6582748     how to trigger a mouse click event using javascript [duplicate]
+22292410    open the file upload dialogue box onclick the image
