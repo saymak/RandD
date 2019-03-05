@@ -18,3 +18,4 @@
 25626675    Hibernate OnDelete Cascade not working for MySql but Works on postgres and Ms-Sql
 39653481    Why JasperReports Server shows empty report?
 37041892    How to get custom fonts working with jasperserver
+1264709     Convert InputStream to byte array in Java
