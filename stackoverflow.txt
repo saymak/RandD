@@ -19,3 +19,4 @@
 39653481    Why JasperReports Server shows empty report?
 37041892    How to get custom fonts working with jasperserver
 1264709     Convert InputStream to byte array in Java
+3476765     MySQL DROP all tables, ignoring foreign keys
