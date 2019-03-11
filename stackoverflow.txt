@@ -20,3 +20,4 @@
 37041892    How to get custom fonts working with jasperserver
 1264709     Convert InputStream to byte array in Java
 3476765     MySQL DROP all tables, ignoring foreign keys
+2287440     How to do case insensitive search in Vim
