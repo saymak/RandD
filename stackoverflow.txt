@@ -24,3 +24,4 @@
 9689793     Can't execute jar- file: “no main manifest attribute”
 29999671    Unable to run repacked spring boot jar caused by “Unable to open nested entry”
 8716259     What does “The APR based Apache Tomcat Native library was not found” mean?
+507602      How can I initialise a static Map?
