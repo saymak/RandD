@@ -25,3 +25,4 @@
 29999671    Unable to run repacked spring boot jar caused by “Unable to open nested entry”
 8716259     What does “The APR based Apache Tomcat Native library was not found” mean?
 507602      How can I initialise a static Map?
+2725533     How to see if an object is an array without using reflection?
