@@ -26,3 +26,4 @@
 8716259     What does “The APR based Apache Tomcat Native library was not found” mean?
 507602      How can I initialise a static Map?
 2725533     How to see if an object is an array without using reflection?
+1611735     Java: Casting Object to Array type
