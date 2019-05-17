@@ -29,3 +29,4 @@
 1611735     Java: Casting Object to Array type
 41524459    Broadcast Receiver Not Working After Device Reboot in Android
 9809074     Java: difference between strong/soft/weak/phantom reference
+18618779    Differences between Proxy and Decorator Pattern
