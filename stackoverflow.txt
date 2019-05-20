@@ -31,3 +31,4 @@
 9809074     Java: difference between strong/soft/weak/phantom reference
 18618779    Differences between Proxy and Decorator Pattern
 8537516     How to use an user variables in MySQL LIKE clause?
+39811797    Spring boot, mvc, hibernate and mysql configuration - sessionFactory error
