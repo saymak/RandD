@@ -34,3 +34,4 @@
 39811797    Spring boot, mvc, hibernate and mysql configuration - sessionFactory error
 15660535    Get method arguments using Spring AOP?
 2242471     Clearing a string buffer/builder after loop
+25592084    Converting binary string to a hexadecimal string JAVA
