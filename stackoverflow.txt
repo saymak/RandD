@@ -36,3 +36,4 @@
 2242471     Clearing a string buffer/builder after loop
 25592084    Converting binary string to a hexadecimal string JAVA
 1873995     Run a single test method with maven
+4059147     Check if a variable is a string in JavaScript
