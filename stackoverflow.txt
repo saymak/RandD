@@ -38,3 +38,4 @@
 1873995     Run a single test method with maven
 4059147     Check if a variable is a string in JavaScript
 24503790    Pretty print JSON output of Spring Boot Actuator endpoints
+40382388    How to set URL query params in Vue with Vue-Router
