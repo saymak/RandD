@@ -41,3 +41,4 @@
 40382388    How to set URL query params in Vue with Vue-Router
 21317006    Spring Boot - parent pom when you already have a parent pom
 18697461    Unknown lifecycle phase maven
+2236807     Java Naming Convention with Acronyms [closed]
