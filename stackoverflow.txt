@@ -45,3 +45,4 @@
 45251645    Error: ENOENT: no such file or directory, scandir
 1389736     How do I create a unique ID in Java? [duplicate]
 10477607    Avoid printStackTrace(); use a logger call instead
+25992277    @AspectJ pointcut for all methods inside package
