@@ -47,3 +47,4 @@
 10477607    Avoid printStackTrace(); use a logger call instead
 25992277    @AspectJ pointcut for all methods inside package
 17666249    How to import an SQL file using the command line in MySQL?
+8245935     Creating a composite Unique constraints on multiple columns
